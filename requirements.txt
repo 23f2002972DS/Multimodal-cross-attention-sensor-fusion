@@ -1,0 +1,7 @@
+jupyterlab
+matplotlib
+numpy
+scikit-learn
+scikit-optimize
+seaborn
+torch
